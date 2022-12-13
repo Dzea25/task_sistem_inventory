@@ -1,4 +1,6 @@
 <?php
+    //DIBUAT OLEH ADIT
+
     include 'db_connect.php';
     $username = $_POST["username"];
     $password = md5($_POST["password"]);
